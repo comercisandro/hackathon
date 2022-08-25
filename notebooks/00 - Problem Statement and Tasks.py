@@ -2,7 +2,7 @@
 # MAGIC %md
 # MAGIC # Background
 # MAGIC 
-# MAGIC In today’s world, every enterprise receives data from multiple sources (internal and external) in variety of formats. More than often, the data is not in standard formats due to the varying standards followed at the source systems. It is very common that the team managing datalakes need to cleanse, enhance, and standardize the data via a series of ETL tools and frameworks. Databricks provides many capabilities out of the box to create and manage data engineering pipelines, store data in its lakehouse.
+# MAGIC  world, every enterprise receives data from multiple sources (internal and external) in variety of formats. More than often, the data is not in standard formats due to the varying standards followed at the source systems. It is very common that the team managing datalakes need to cleanse, enhance, and standardize the data via a series of ETL tools and frameworks. Databricks provides many capabilities out of the box to create and manage data engineering pipelines, store data in its lakehouse.
 
 # COMMAND ----------
 
